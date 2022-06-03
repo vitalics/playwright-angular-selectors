@@ -13,7 +13,14 @@
     "build": "tsc -p tsconfig.json",
     "angular13:start": "cd assets/angular13 &&  npm run start"
   },
-  "keywords": [],
+  "keywords": [
+    "playwright",
+    "angular",
+    "selectors",
+    "angular-selectors",
+    "playwright-angular-selectors",
+    "playwright-selectors"
+  ],
   "author": "Vitali Haradkou <vitalicset@yandex.ru>",
   "license": "MIT",
   "devDependencies": {
