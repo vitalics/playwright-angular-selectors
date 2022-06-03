@@ -1,0 +1,14 @@
+{
+  "extends": "@tsconfig/node14",
+  "compilerOptions": {
+    "outDir": "lib",
+    "declaration": true,
+    "skipLibCheck": true
+  },
+  "exclude": [
+    "node_modules",
+    "assets",
+    "tests",
+    "playwright.config.ts"
+  ]
+}

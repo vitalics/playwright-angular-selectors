@@ -1,0 +1,6 @@
+assets
+tests
+src
+index.ts
+playwright.config.ts
+tsconfig.json
