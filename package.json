@@ -23,6 +23,7 @@
   ],
   "author": "Vitali Haradkou <vitalicset@yandex.ru>",
   "license": "MIT",
+  "homepage": "https://github.com/vitalics/playwright-angular-selectors",
   "devDependencies": {
     "@playwright/test": "1.19",
     "@tsconfig/node14": "^1.0.1",
